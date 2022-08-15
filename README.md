@@ -1,5 +1,6 @@
-![Alt text](logo.png?raw=true "Title")
-![alt-text-1](ex1.png "title-1") ![alt-text-2](ex2.png "title-2")
+# ImageRegister
+
+![alt-text-2](ex2.png "title-2")
 
 
 ## Description
